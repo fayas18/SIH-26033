@@ -37,6 +37,9 @@ Better prices for farmers
 Lower prices for consumers
 Reduced supply chain inefficiencies and food wastage
 
+<img width="1280" height="720" alt="WhatsApp Image 2026-10-29 at 6 34 02 PM" src="https://github.com/user-attachments/assets/eeeea433-a8e3-4269-a2dd-1bdb098cab99" />
+
+
 ## Proposed Solution
 Idea: "FarmDirect," a digital marketplace where farmers and FPOs list produce and sell directly to consumers and bulk buyers (retailers, restaurants, hostels, processors).
 How it addresses the problem:
